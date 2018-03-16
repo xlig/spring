@@ -1,0 +1,21 @@
+server:
+  port: 8099
+spring:
+  application:
+    name: Oauth
+
+  #cloud:
+  #  config:
+  #    server:
+  #      git:
+  #        uri: file:///${user.home}/config-repo
+  #        searchPaths: '{application}'  #搜索各个以服务名命名的文件夹下的所有yml
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8080/eureka/  #注册中心地址
+  instance:
+    hostname: localhost
+    instance-id: http://localhost:8099
+server:
+  port: 8099

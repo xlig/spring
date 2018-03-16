@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="turbine-dashboard:war">
+    <output-path>$PROJECT_DIR$/turbine-dashboard/target</output-path>
+    <root id="archive" name="com.example.war">
+      <element id="artifact" artifact-name="turbine-dashboard:war exploded" />
+    </root>
+  </artifact>
+</component>

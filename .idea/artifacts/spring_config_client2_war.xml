@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-config-client2:war">
+    <output-path>$PROJECT_DIR$/spring-config-client2/target</output-path>
+    <root id="archive" name="cn.com-1.5.10.RELEASE.war">
+      <element id="artifact" artifact-name="spring-config-client2:war exploded" />
+    </root>
+  </artifact>
+</component>

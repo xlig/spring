@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bus/bus.iml" filepath="$PROJECT_DIR$/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-proxy/gateway.iml" filepath="$PROJECT_DIR$/reverse-proxy/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth/oauth.iml" filepath="$PROJECT_DIR$/oauth/oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service0/service0.iml" filepath="$PROJECT_DIR$/service0/service0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service00/service00.iml" filepath="$PROJECT_DIR$/service00/service00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service1/service1.iml" filepath="$PROJECT_DIR$/service1/service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service2/service2.iml" filepath="$PROJECT_DIR$/service2/service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-config.iml" filepath="$PROJECT_DIR$/spring-config/spring-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-client/spring-config-client.iml" filepath="$PROJECT_DIR$/spring-config-client/spring-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-client2/spring-config-client2.iml" filepath="$PROJECT_DIR$/spring-config-client2/spring-config-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka-service/spring-eureka-service.iml" filepath="$PROJECT_DIR$/spring-eureka-service/spring-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-dashboard/turbine-dashboard.iml" filepath="$PROJECT_DIR$/turbine-dashboard/turbine-dashboard.iml" />
+    </modules>
+  </component>
+</project>
